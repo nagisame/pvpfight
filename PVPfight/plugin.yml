@@ -1,0 +1,8 @@
+name: PVPfight
+main: PVPfight\PVPfight
+version: 0.1
+api: [1.12.0]
+load: POSTWORLD
+author: hrn
+authors: [hrn]
+description: PVPplugin
